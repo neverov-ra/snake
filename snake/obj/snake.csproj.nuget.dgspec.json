@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT\\Codes\\Snake\\snake\\snake.csproj": {}
+    "D:\\IT\\Codes\\snake\\snake\\snake.csproj": {}
   },
   "projects": {
-    "D:\\IT\\Codes\\Snake\\snake\\snake.csproj": {
+    "D:\\IT\\Codes\\snake\\snake\\snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT\\Codes\\Snake\\snake\\snake.csproj",
+        "projectUniqueName": "D:\\IT\\Codes\\snake\\snake\\snake.csproj",
         "projectName": "snake",
-        "projectPath": "D:\\IT\\Codes\\Snake\\snake\\snake.csproj",
+        "projectPath": "D:\\IT\\Codes\\snake\\snake\\snake.csproj",
         "packagesPath": "C:\\Users\\zagre\\.nuget\\packages\\",
-        "outputPath": "D:\\IT\\Codes\\Snake\\snake\\obj\\",
+        "outputPath": "D:\\IT\\Codes\\snake\\snake\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
