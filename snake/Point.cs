@@ -55,9 +55,23 @@ namespace snake
 
         public void Draw()
         {
-            Console.SetCursorPosition(x, y);
-            Console.Write(sym);
+            try
+            {
+                Console.SetCursorPosition(x, y);
+                Console.Write(sym);
+            }
+            catch (ArgumentOutOfRangeException)
+            {
+                Console.SetCursorPosition(40, 12);
+                Console.WriteLine("Game Over");
+
+            }
+
         }
+        /*{
+        Console.SetCursorPosition(x, y);
+        Console.Write(sym);
+        }*/
 
         public void Clear()
         {
